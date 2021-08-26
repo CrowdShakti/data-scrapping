@@ -1,0 +1,757 @@
+{
+    "Python": {
+        "Automate the Boring Stuff with Python: Practical Programming for Total Beginners": {
+            "authors": "Al Sweigart",
+            "published": "14 April 2015",
+            "ratings": {
+                "Amazon.in": "4.6/5",
+                "Goodreads": "4.3/5",
+                "Google Play": "4.6/5"
+            },
+            "pages": "505"
+        },
+        "Think Python: An Introduction to Software Design": {
+            "authors": "Allen B. Downey",
+            "published": "April 2002",
+            "pages": "429"
+        },
+        "Learn Python the Hard Way: A Very Simple Introduction to the ...": {
+            "authors": "Zed Shaw",
+            "published": "19 September 2013",
+            "ratings": {
+                "Goodreads": "3.9/5"
+            }
+        },
+        "Python Cookbook: Recipes for Mastering Python 3": {
+            "authors": "David M. Beazley, Brian K. Jones",
+            "published": "2011",
+            "ratings": {
+                "Amazon.in": "4.5/5",
+                "Flipkart": "4.5/5",
+                "Goodreads": "4.2/5"
+            },
+            "pages": "1392"
+        },
+        "Python Tricks: A Buffet of Awesome Python Features": {
+            "authors": "Dan Bader",
+            "published": "2017",
+            "ratings": {
+                "Goodreads": "4.4/5",
+                "Flipkart": "4.5/5",
+                "Ubuy": "3/5"
+            }
+        },
+        "Head First Python": {
+            "published": "2010",
+            "ratings": {
+                "Flipkart": "4.5/5",
+                "Goodreads": "3.8/5"
+            },
+            "pages": "624"
+        },
+        "Python for Everybody: Exploring Data Using Python 3": {
+            "authors": "Charles Severance",
+            "published": "9 April 2016",
+            "ratings": {
+                "Center for Open Education": "4.5/5",
+                "Goodreads": "4.3/5",
+                "Flipkart": "4.5/5"
+            }
+        },
+        "Fluent Python: Clear, Concise, and Effective Programming": {
+            "authors": "Luciano Ramalho",
+            "published": "24 July 2015",
+            "ratings": {
+                "Amazon.in": "4.6/5",
+                "Goodreads": "4.7/5",
+                "Flip Kart": "4.7/5"
+            },
+            "pages": "1069"
+        },
+        "How to think like a computer scientist: Learning with Python": {
+            "authors": "Allen B. Downey",
+            "published": "January 2002",
+            "ratings": {
+                "Center for Open Education": "4.5/5"
+            }
+        },
+        "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython": {
+            "authors": "Wes McKinney",
+            "published": "30 December 2011",
+            "ratings": {
+                "Amazon.in": "4.6/5"
+            },
+            "pages": "676"
+        }
+    },
+    "React": {
+        "The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js": {
+            "authors": "Robin Wieruch",
+            "published": "15 November 2017",
+            "ratings": {
+                "Amazon.in": "4.3/5"
+            },
+            "pages": "280"
+        },
+        "Learning React: Functional Web Development with React and Redux": {
+            "authors": "Alex Banks, Eve Porcello",
+            "published": "2017",
+            "ratings": {
+                "Flipkart": "4.3/5",
+                "Goodreads": "4/5",
+                "AbeBooks": "4/5"
+            },
+            "pages": "488"
+        },
+        "Learning React: Modern Patterns for Developing React Apps": {
+            "authors": "Eve Porcello, Alex Banks",
+            "published": "12 June 2020",
+            "ratings": {
+                "Amazon.in": "4.2/5",
+                "Goodreads": "4.2/5"
+            },
+            "pages": "338"
+        },
+        "React in Action": {
+            "authors": "Mark Tielens Thomas",
+            "published": "28 May 2018",
+            "ratings": {
+                "Manning Publications": "4.7/5"
+            },
+            "pages": "498"
+        },
+        "React Explained: Your Step-by-Step Guide to React": {
+            "authors": "Zac Gordon",
+            "published": "5 March 2019",
+            "ratings": {
+                "Amazon.in": "4.5/5",
+                "Goodreads": "4.3/5",
+                "Ubuy India": "3/5"
+            }
+        },
+        "Learning React: A Hands-On Guide to Building Web Applications Using React and Redux": {
+            "authors": "Kirupa Chinnathambi",
+            "published": "2017",
+            "pages": "784"
+        },
+        "Fullstack React: The Complete Guide to ReactJS and Friends": {
+            "authors": "Anthony Accomazzo, Nate Murray, Ari Lerner",
+            "published": "March 2017",
+            "ratings": {
+                "Goodreads": "4.2/5"
+            }
+        },
+        "React Quickly: Painless Web Apps with React, JSX, Redux, and GraphQL": {
+            "authors": "Azat Mardan",
+            "published": "20 August 2017",
+            "ratings": {
+                "Manning Publications": "4/5",
+                "Goodreads": "3.5/5"
+            },
+            "pages": "794"
+        },
+        "React. Js Book: Learning React JavaScript Library from Scratch": {
+            "authors": "Greg Sidelnikov",
+            "published": "17 March 2017",
+            "ratings": {
+                "Amazon.in": "3.6/5",
+                "Goodreads": "2/5"
+            }
+        },
+        "React: Up & Running: Building Web Applications": {
+            "authors": "Stoyan Stefanov",
+            "published": "14 July 2016",
+            "ratings": {
+                "Goodreads": "3.7/5"
+            },
+            "pages": "305"
+        }
+    },
+    "Java": {
+        "Effective Java": {
+            "authors": "Joshua Bloch",
+            "published": "2001",
+            "ratings": {
+                "Flipkart": "4.7/5",
+                "Goodreads": "4.5/5"
+            },
+            "pages": "266"
+        },
+        "Head First Java": {
+            "authors": "Kathy Sierra, Bert Bates",
+            "published": "2003",
+            "ratings": {
+                "Flipkart": "4.3/5",
+                "Goodreads": "4.2/5",
+                "Google Play": "4.4/5"
+            },
+            "pages": "722"
+        },
+        "Head First Design Patterns": {
+            "authors": "Elisabeth Freeman, Kathy Sierra",
+            "published": "October 2004",
+            "ratings": {
+                "Goodreads": "4.3/5",
+                "Flipkart": "4.6/5",
+                "Google Play": "4.8/5"
+            },
+            "pages": "1013"
+        },
+        "Java Concurrency in Practice": {
+            "authors": "Brian Goetz",
+            "published": "9 May 2006",
+            "ratings": {
+                "Flipkart": "4.5/5"
+            }
+        },
+        "Thinking in Java": {
+            "authors": "Bruce Eckel",
+            "published": "1998",
+            "ratings": {
+                "Flipkart": "4.4/5",
+                "Goodreads": "4.2/5"
+            },
+            "pages": "1156"
+        },
+        "Java: The Complete Reference": {
+            "authors": "Herbert Schildt",
+            "published": "21 November 2018",
+            "ratings": {
+                "Flipkart": "4.6/5",
+                "Goodreads": "4.2/5"
+            },
+            "pages": "1072"
+        },
+        "Java 8 in Action: Lambdas, Streams, and Functional\u2011style ...": {
+            "published": "28 August 2014",
+            "ratings": {
+                "Manning Publications": "5/5",
+                "Goodreads": "4.4/5"
+            }
+        },
+        "Clean Code": {
+            "authors": "Robert Cecil Martin",
+            "published": "1 August 2008",
+            "ratings": {
+                "Goodreads": "4.4/5",
+                "Flipkart": "4.6/5"
+            }
+        },
+        "JavaScript: Programming Basics for Absolute Beginners": {
+            "authors": "Nathan CLARK",
+            "published": "26 November 2016",
+            "ratings": {
+                "Amazon.in": "4.1/5",
+                "Goodreads": "3.5/5",
+                "Ubuy India": "3/5"
+            }
+        },
+        "Learn Java in One Day and Learn It Well": {
+            "authors": "Jamie Chan",
+            "published": "7 October 2016",
+            "ratings": {
+                "Amazon.in": "4.4/5",
+                "Goodreads": "4.1/5",
+                "Ubuy": "3/5"
+            }
+        }
+    },
+    ".NET": {
+        "NTA UGC NET/SET/JRF : Teaching & ...": {
+            "authors": "K V S Madaan"
+        },
+        "Oxford NTA UGC Paper I for NET/SET/JRF \u2011 ...": {
+            "authors": "Harpreet Kaur",
+            "ratings": {
+                "Goodreads": "4.2/5"
+            }
+        },
+        "Ugc Net/set For Lectureship Exam Paper I Compulsory": {
+            "authors": "Sajit Kumar, M. Gagan",
+            "ratings": {
+                "Flipkart": "4.2/5"
+            }
+        },
+        "C# in Depth": {
+            "authors": "Jon Skeet",
+            "published": "May 2008",
+            "ratings": {
+                "Manning Publications": "4.9/5",
+                "Goodreads": "4.5/5",
+                "Flipkart": "4.2/5"
+            },
+            "pages": "787"
+        },
+        "Pro ASP.NET Core 3: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages": {
+            "authors": "Adam Freeman",
+            "published": "6 June 2020",
+            "ratings": {
+                "Amazon.in": "4.4/5"
+            },
+            "pages": "1086"
+        },
+        "Pro C# 9 with .NET 5: Foundational Principles and ...": {
+            "authors": "Phillip Japikse, Andrew Troelsen",
+            "published": "26 April 2021",
+            "ratings": {
+                "Goodreads": "3.7/5"
+            }
+        },
+        "Dependency Injection in .NET": {
+            "authors": "Mark Seemann",
+            "published": "2011",
+            "ratings": {
+                "Manning Publications": "4.6/5"
+            }
+        },
+        "Professional ASP.NET MVC 5": {
+            "authors": "Adam Freeman",
+            "published": "20 December 2013",
+            "ratings": {
+                "Goodreads": "3.9/5",
+                "Rakuten Kobo": "4/5"
+            },
+            "pages": "749"
+        },
+        "Entity Framework Core in Action, Second Edition": {
+            "authors": "Jon Smith",
+            "published": "8 June 2021",
+            "ratings": {
+                "Manning Publications": "4.5/5"
+            },
+            "pages": "622"
+        },
+        "Pro WPF in C# 2008": {
+            "authors": "Matthew MacDonald",
+            "published": "2005",
+            "pages": "966"
+        }
+    },
+    "Kotlin": {
+        "Kotlin in Action": {
+            "authors": "Dmitry Jemerov, Svetlana Isakova",
+            "published": "16 March 2021",
+            "ratings": {
+                "Manning Publications": "4.8/5",
+                "Goodreads": "4.4/5"
+            },
+            "pages": "532"
+        },
+        "Head First Kotlin: A Brain-Friendly Guide": {
+            "authors": "Dawn Griffiths, David Griffiths",
+            "published": "13 February 2019",
+            "ratings": {
+                "Amazon.in": "4.4/5",
+                "Goodreads": "4.4/5",
+                "Google Play": "4.9/5"
+            },
+            "pages": "814"
+        },
+        "Kotlin for Android Developers: Learn Kotlin the Easy Way ...": {
+            "authors": "Antonio Leiva",
+            "published": "21 March 2016",
+            "ratings": {
+                "Goodreads": "3.8/5"
+            }
+        },
+        "The Joy of Kotlin": {
+            "authors": "Pierre Yves Saumont",
+            "published": "21 April 2019",
+            "ratings": {
+                "Manning Publications": "4.6/5",
+                "Goodreads": "4/5"
+            },
+            "pages": "674"
+        },
+        "Android Programming with Kotlin for Beginners: Build Android Apps Starting from Zero Programming Experience with the New Kotlin Programming Language": {
+            "authors": "John Horton",
+            "published": "27 April 2019",
+            "ratings": {
+                "Amazon.in": "4.1/5"
+            },
+            "pages": "699"
+        },
+        "Kotlin Programming: The Big Nerd Ranch Guide": {
+            "authors": "Josh Skeen, David Greenhalgh",
+            "published": "9 August 2018",
+            "ratings": {
+                "Goodreads": "3.9/5"
+            },
+            "pages": "592"
+        },
+        "Kotlin Cookbook: A Problem-Focused Approach": {
+            "authors": "Ken KOUSEN",
+            "published": "2019",
+            "ratings": {
+                "Amazon.in": "4.4/5",
+                "Flip Kart": "4/5",
+                "Goodreads": "4.1/5"
+            },
+            "pages": "264"
+        },
+        "Programming Kotlin: Create Elegant, Expressive, and ...": {
+            "authors": "Venkat Subramaniam",
+            "published": "2019",
+            "ratings": {
+                "Amazon.in": "4.1/5",
+                "Goodreads": "4.5/5"
+            }
+        },
+        "Programming Kotlin": {
+            "authors": "Stephen Samuel, Stefan Bocutiu",
+            "published": "2017",
+            "ratings": {
+                "Amazon.in": "3.4/5",
+                "Goodreads": "4/5"
+            },
+            "pages": "413"
+        },
+        "Mastering Kotlin: Learn Advanced Kotlin Programming Techniques to Build Apps for Android, IOS, and the Web": {
+            "authors": "Nate Ebel",
+            "published": "11 October 2019",
+            "ratings": {
+                "Amazon.in": "4.5/5",
+                "Goodreads": "3.9/5"
+            },
+            "pages": "417"
+        }
+    },
+    "Swift": {
+        "Mastering Swift 5: Deep Dive Into the Latest Edition of the Swift Programming Language, 5th Edition": {
+            "authors": "Jon T. Hoffman",
+            "published": "30 April 2019",
+            "ratings": {
+                "Amazon.in": "4.2/5",
+                "Google Play": "5/5"
+            },
+            "pages": "358"
+        },
+        "Swift in Depth": {
+            "authors": "Tjeerd in 't Veen",
+            "published": "10 December 2018",
+            "ratings": {
+                "Manning Publications": "5/5",
+                "Goodreads": "4.6/5"
+            },
+            "pages": "566"
+        },
+        "Gulliver's Travels": {
+            "authors": "Jonathan Swift",
+            "published": "28 October 1726",
+            "ratings": {
+                "Goodreads": "3.6/5"
+            }
+        },
+        "Learning Swift: Building Apps for MacOS, IOS, and Beyond": {
+            "authors": "Tim Nugent, Jon Manning, Paris Buttfield-Addison",
+            "published": "2017",
+            "ratings": {
+                "Amazon.in": "4.2/5",
+                "Goodreads": "3/5"
+            },
+            "pages": "466"
+        },
+        "Swift Programming: The Big Nerd Ranch Guide": {
+            "authors": "Matthew Mathias, J. Gallagher",
+            "published": "15 December 2015",
+            "pages": "658"
+        },
+        "Mastering Swift 5.3: Upgrade Your Knowledge and Become an Expert in the Latest Version of the Swift Programming Language, 6th Edition": {
+            "authors": "Jon T. Hoffman",
+            "published": "23 November 2020",
+            "ratings": {
+                "Amazon.in": "4.2/5"
+            },
+            "pages": "419"
+        },
+        "Pro Swift: Swift 4.1 Edition": {
+            "authors": "Paul Hudson",
+            "published": "23 February 2018"
+        },
+        "iOS Programming: The Big Nerd Ranch Guide": {
+            "published": "2010",
+            "pages": "665"
+        },
+        "Design Patterns in Swift 5: Learn How to Implement the Gang ...": {
+            "authors": "Karoly Nyisztor",
+            "published": "26 March 2019",
+            "ratings": {
+                "Amazon.in": "4.3/5",
+                "Goodreads": "4/5"
+            }
+        },
+        "Beginning IOS 14 & Swift App Development: ...": {
+            "authors": "Greg Lim",
+            "published": "27 October 2020",
+            "ratings": {
+                "Amazon.in": "3.9/5"
+            }
+        }
+    },
+    "Rust": {
+        "The Rust Programming Language (Covers Rust 2018)": {
+            "authors": "Steve Klabnik, Carol Nichols",
+            "published": "2018",
+            "ratings": {
+                "Goodreads": "4.4/5"
+            },
+            "pages": "561"
+        },
+        "Rust in Action": {
+            "authors": "Tim McNamara",
+            "published": "10 August 2021",
+            "ratings": {
+                "Manning Publications": "4.7/5",
+                "Goodreads": "4.2/5"
+            },
+            "pages": "454"
+        },
+        "Programming Rust: Fast, Safe Systems Development": {
+            "authors": "Jim Blandy, Jason Orendorff",
+            "published": "2015",
+            "ratings": {
+                "Flipkart": "5/5",
+                "Goodreads": "4.6/5",
+                "Google Play": "4.4/5"
+            },
+            "pages": "780"
+        },
+        "Beginning Rust: From Novice to Professional": {
+            "authors": "Carlo Milanesi",
+            "published": "22 March 2018",
+            "ratings": {
+                "Goodreads": "3.8/5"
+            },
+            "pages": "381"
+        },
+        "The The Complete Rust Programming Reference Guide: Design, Develop, and Deploy Effective Software Systems Using the Advanced Constructs of Rust": {
+            "authors": "Claus Matzinger, Vesa Kaihlavirta, Rahul Sharma",
+            "published": "2019",
+            "ratings": {
+                "Amazon.in": "4.7/5",
+                "Goodreads": "4/5",
+                "Google Play": "4/5"
+            },
+            "pages": "685"
+        },
+        "Hands-On Data Structures and Algorithms with Rust: Learn Programming Techniques to Build Effective, Maintainable, and Readable Code in Rust 2018": {
+            "authors": "Claus Matzinger",
+            "published": "23 January 2019",
+            "ratings": {
+                "Amazon.in": "3.6/5",
+                "Ubuy India": "4.7/5",
+                "Google Play": "3/5"
+            },
+            "pages": "306"
+        },
+        "Mastering Rust: Learn about Memory Safety, Type System, Concurrency, and the New Features of Rust 2018 Edition, 2nd Edition": {
+            "authors": "Vesa Kaihlavirta, Rahul Sharma",
+            "published": "31 January 2019",
+            "ratings": {
+                "Amazon.in": "3.9/5",
+                "Goodreads": "4/5"
+            },
+            "pages": "543"
+        },
+        "Hands-On Concurrency with Rust: Confidently Build Memory-safe, Parallel, and Efficient Software in Rust": {
+            "authors": "Brian L. Troutwine",
+            "published": "2018",
+            "ratings": {
+                "Amazon.in": "4.2/5",
+                "Ubuy India": "4.7/5",
+                "Google Play": "3/5"
+            },
+            "pages": "453"
+        },
+        "Hands-On Microservices with Rust: Build, Test, and Deploy Scalable and Reactive Microservices with Rust 2018": {
+            "authors": "Denis Kolodin",
+            "published": "31 January 2019",
+            "ratings": {
+                "Amazon.in": "4.4/5"
+            },
+            "pages": "511"
+        },
+        "Hands-On Functional Programming in Rust: Build Modular and Reactive Applications with Functional Programming Techniques in Rust 2018": {
+            "authors": "Andrew Johnson",
+            "ratings": {
+                "Amazon.in": "3.1/5",
+                "Goodreads": "2.2/5",
+                "Google Play": "3/5"
+            },
+            "pages": "282"
+        }
+    },
+    "Golang": {
+        "The Go Programming Language": {
+            "authors": "Alan A. A. Donovan, Brian Kernighan",
+            "published": "2015",
+            "ratings": {
+                "Flipkart": "4.5/5",
+                "Goodreads": "4.4/5"
+            },
+            "pages": "1219"
+        },
+        "Introducing Go: Build Reliable, Scalable Programs": {
+            "authors": "Caleb Doxsey",
+            "published": "2016",
+            "ratings": {
+                "Goodreads": "3.7/5",
+                "Google Play": "4.6/5"
+            },
+            "pages": "158"
+        },
+        "Go in Action": {
+            "authors": "William Kennedy, Erik St. Martin, Brian Ketelsen",
+            "published": "November 2015",
+            "ratings": {
+                "Manning Publications": "4.7/5",
+                "Goodreads": "3.8/5"
+            },
+            "pages": "513"
+        },
+        "An Introduction to Programming in Go": {
+            "authors": "Caleb Doxsey",
+            "published": "3 September 2012",
+            "ratings": {
+                "Goodreads": "3.8/5"
+            }
+        },
+        "Concurrency in Go: Tools and Techniques for Developers": {
+            "authors": "Katherine Cox-Buday",
+            "published": "2017",
+            "ratings": {
+                "Amazon.in": "4.4/5",
+                "Goodreads": "4.2/5",
+                "Ubuy India": "4.7/5"
+            },
+            "pages": "349"
+        },
+        "Head First Go": {
+            "authors": "Jay McGavren",
+            "published": "2019",
+            "ratings": {
+                "Goodreads": "4.2/5"
+            },
+            "pages": "973"
+        },
+        "Get Programming with Go": {
+            "authors": "Nathan Youngman, Roger Pepp\u00e9",
+            "published": "27 August 2018",
+            "ratings": {
+                "Manning Publications": "5/5",
+                "Goodreads": "4.2/5"
+            },
+            "pages": "468"
+        },
+        "Learning Go: An Idiomatic Approach to Real\u2011World Go ...": {
+            "authors": "Jon Bodner",
+            "published": "23 March 2021"
+        },
+        "Mastering Go: Create Golang Production Applications Using Network Libraries, Concurrency, and Advanced Go Data Structures": {
+            "authors": "Mihalis Tsoukalos",
+            "published": "30 April 2018",
+            "ratings": {
+                "Amazon.in": "4.3/5",
+                "Goodreads": "3.7/5",
+                "AbeBooks": "3.7/5"
+            },
+            "pages": "784"
+        },
+        "Go in Practice": {
+            "authors": "Matt Butcher, Matt Farina",
+            "published": "15 August 2016",
+            "ratings": {
+                "Manning Publications": "4.5/5",
+                "Goodreads": "3.8/5"
+            },
+            "pages": "451"
+        }
+    },
+    "Javascript": {
+        "Eloquent JavaScript: A Modern Introduction to Programming": {
+            "authors": "Marijn Haverbeke",
+            "published": "2011",
+            "ratings": {
+                "Center for Open Education": "4.5/5",
+                "Goodreads": "4.2/5"
+            },
+            "pages": "227"
+        },
+        "JavaScript: The Good Parts": {
+            "authors": "Douglas Crockford",
+            "published": "2008",
+            "ratings": {
+                "Amazon.in": "4.5/5",
+                "Goodreads": "4.2/5",
+                "Flipkart": "4.5/5"
+            },
+            "pages": "174"
+        },
+        "Javascript: The Definitive Guide, 5th edition": {
+            "authors": "David Flanagan",
+            "published": "August 2006",
+            "ratings": {
+                "Goodreads": "4/5"
+            },
+            "pages": "1022"
+        },
+        "JavaScript and JQuery: Interactive Front-End Web Development": {
+            "authors": "David Sawyer McFarland",
+            "published": "2008",
+            "ratings": {
+                "Goodreads": "4.3/5",
+                "Barnes & Noble": "3.5/5"
+            },
+            "pages": "1036"
+        },
+        "You Don't Know JS: Scope & Closures": {
+            "authors": "Kyle Simpson",
+            "published": "2014",
+            "ratings": {
+                "Flipkart": "4.8/5",
+                "Goodreads": "4.3/5"
+            },
+            "pages": "105"
+        },
+        "Effective JavaScript: 68 Specific Ways to Harness the Power ...": {
+            "authors": "David Herman",
+            "published": "2012",
+            "ratings": {
+                "Goodreads": "4.3/5",
+                "Google Play": "4.5/5"
+            }
+        },
+        "A Smarter Way to Learn JavaScript": {
+            "authors": "Mark Myers",
+            "published": "2014",
+            "ratings": {
+                "Goodreads": "4.1/5"
+            }
+        },
+        "Head First JavaScript Programming: A Brain-Friendly Guide": {
+            "authors": "Elisabeth Freeman, Eric Freeman",
+            "published": "March 2014",
+            "ratings": {
+                "Amazon.in": "4.5/5",
+                "Flipkart": "4.5/5"
+            },
+            "pages": "1387"
+        },
+        "Secrets of the JavaScript Ninja": {
+            "authors": "Bear Bibeault, John Resig, Josip Maras",
+            "published": "2008",
+            "ratings": {
+                "Manning Publications": "5/5"
+            },
+            "pages": "708"
+        },
+        "Learn JavaScript Visually: With Interactive Exercises": {
+            "authors": "Ivelin Demirov",
+            "published": "2014",
+            "ratings": {
+                "Amazon.in": "4.1/5",
+                "Goodreads": "3.8/5"
+            }
+        }
+    }
+}
