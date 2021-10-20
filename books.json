@@ -63,8 +63,8 @@
             "published": "24 July 2015",
             "ratings": {
                 "Amazon.in": "4.6/5",
-                "Goodreads": "4.7/5",
-                "Flip Kart": "4.7/5"
+                "Flip Kart": "4.7/5",
+                "Goodreads": "4.7/5"
             },
             "pages": "1069"
         },
@@ -237,22 +237,21 @@
                 "Flipkart": "4.6/5"
             }
         },
-        "JavaScript: Programming Basics for Absolute Beginners": {
-            "authors": "Nathan CLARK",
-            "published": "26 November 2016",
+        "Java Performance: The Definitive Guide: Getting the Most Out of Your Code": {
+            "authors": "Scott Oaks",
+            "published": "2014",
             "ratings": {
-                "Amazon.in": "4.1/5",
-                "Goodreads": "3.5/5",
-                "Ubuy India": "3/5"
-            }
+                "Goodreads": "4.4/5",
+                "Ubuy India": "3/5",
+                "AbeBooks": "4.4/5"
+            },
+            "pages": "735"
         },
-        "Learn Java in One Day and Learn It Well": {
-            "authors": "Jamie Chan",
-            "published": "7 October 2016",
+        "Java SE 8 for the Really Impatient": {
+            "authors": "Cay S. Horstmann",
+            "published": "19 September 2013",
             "ratings": {
-                "Amazon.in": "4.4/5",
-                "Goodreads": "4.1/5",
-                "Ubuy": "3/5"
+                "Google Play": "4.5/5"
             }
         }
     },
@@ -260,16 +259,16 @@
         "NTA UGC NET/SET/JRF : Teaching & ...": {
             "authors": "K V S Madaan"
         },
-        "Oxford NTA UGC Paper I for NET/SET/JRF \u2011 ...": {
-            "authors": "Harpreet Kaur",
-            "ratings": {
-                "Goodreads": "4.2/5"
-            }
-        },
         "Ugc Net/set For Lectureship Exam Paper I Compulsory": {
             "authors": "Sajit Kumar, M. Gagan",
             "ratings": {
                 "Flipkart": "4.2/5"
+            }
+        },
+        "Oxford NTA UGC Paper I for NET/SET/JRF \u2011 ...": {
+            "authors": "Harpreet Kaur",
+            "ratings": {
+                "Goodreads": "4.2/5"
             }
         },
         "C# in Depth": {
@@ -292,10 +291,24 @@
         },
         "Pro C# 9 with .NET 5: Foundational Principles and ...": {
             "authors": "Phillip Japikse, Andrew Troelsen",
-            "published": "26 April 2021",
+            "published": "26 April 2021"
+        },
+        "Dependency Injection Principles, Practices, and Patterns": {
+            "authors": "Steven van Deursen, Mark Seemann",
+            "published": "6 March 2019",
             "ratings": {
-                "Goodreads": "3.7/5"
-            }
+                "Manning Publications": "4.6/5"
+            },
+            "pages": "783"
+        },
+        "CLR VIA C#": {
+            "authors": "Jeffrey Richter",
+            "published": "2006",
+            "ratings": {
+                "Goodreads": "4.6/5",
+                "Flipkart": "4.6/5"
+            },
+            "pages": "1487"
         },
         "Dependency Injection in .NET": {
             "authors": "Mark Seemann",
@@ -312,19 +325,6 @@
                 "Rakuten Kobo": "4/5"
             },
             "pages": "749"
-        },
-        "Entity Framework Core in Action, Second Edition": {
-            "authors": "Jon Smith",
-            "published": "8 June 2021",
-            "ratings": {
-                "Manning Publications": "4.5/5"
-            },
-            "pages": "622"
-        },
-        "Pro WPF in C# 2008": {
-            "authors": "Matthew MacDonald",
-            "published": "2005",
-            "pages": "966"
         }
     },
     "Kotlin": {
@@ -620,9 +620,7 @@
             "authors": "Katherine Cox-Buday",
             "published": "2017",
             "ratings": {
-                "Amazon.in": "4.4/5",
-                "Goodreads": "4.2/5",
-                "Ubuy India": "4.7/5"
+                "Amazon.in": "4.4/5"
             },
             "pages": "349"
         },
